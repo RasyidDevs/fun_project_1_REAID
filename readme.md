@@ -7,7 +7,7 @@ lalu isi soal-soal yang muncul.
 
 > 🎥 Video (klik di bawah untuk melihat):
 
-[📺 Lihat Video]([./assets/video.mp4](https://youtu.be/L9LOXQ0PB6M))
+[📺 Lihat Video](https://youtu.be/L9LOXQ0PB6M)
 
 ---
 
