@@ -1,7 +1,16 @@
-﻿# fun_project_1_REAID
+# FUN_PROJECT_1_REAID
+
 ![Logo](./assets/nama.png)
-Masukkan nama kalian di input diatas
-Lalu isi soal soal yang muncul
-![Judul Video](./assets/video.mp4]
-link deployment : --COMINGSOOM
+
+Masukkan nama kalian di input di atas,  
+lalu isi soal-soal yang muncul.
+
+> 🎥 Video (klik link di bawah untuk melihat):
+
+[📺 Lihat Video](./assets/video.mp4)
+
+---
+
+🔗 **Link Deployment**:  
+⚠️ *COMING SOON*
 
