@@ -7,7 +7,10 @@ lalu isi soal-soal yang muncul.
 
 > 🎥 Video (klik link di bawah untuk melihat):
 
-[📺 Lihat Video](./assets/video.mp4)
+<video width="600" controls>
+  <source src="./assets/video.mp4" type="video/mp4">
+  Browsermu tidak mendukung tag video.
+</video>
 
 ---
 
