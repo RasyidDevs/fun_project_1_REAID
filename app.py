@@ -141,5 +141,5 @@ if nama:
             description = "Kamu adalah orang yang menghargai hadiah dan kejutan dari pasangan. Hadiah kecil yang penuh makna dapat membuatmu merasa dicintai."
         st.success(f"✨ {love_language_tertinggi} ✨")
         st.image(f"assets/{nama_gambar}.gif", caption=f"Love Language: {love_language_tertinggi}")
-        st.write(description)
+        st.markdown(f"<div style='font-size: 22px; font-weight: bold;'>{description}</div>", unsafe_allow_html=True)
        
