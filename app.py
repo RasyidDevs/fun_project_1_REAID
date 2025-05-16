@@ -1,6 +1,4 @@
 import streamlit as st
-from streamlit_card import card
-from streamlit_modal import Modal
 
 st.header("🧠Kamu ingin tahu apa hari ini?")
 tab1, tab2, tab3 = st.tabs(["Seputar Cinta", "Seputar Teknologi" , "Seputar Investasi"])
