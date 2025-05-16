@@ -1,11 +1,10 @@
 # FUN_PROJECT_1_REAID
-
-![Logo](./assets/documentation/tab-bar.png)
-- Kalian bisa mengganti ganti soal sesuai dengan keinginan kalian pada tab di atas
-![Logo](./assets/documentation/question.png)
-- Setelah menentukan soal , kalian bisa menjawab soal2 diatas sesuai dengan pribadi kalian
-- Kalian bisa melihat hasil setelah kalian memencet button Lihat Hasil!
----
+## How to Run this project
+- install streamlit on this project using command below
+![alt_teks](.assets/documentation/streamlit.png)
+### Make sure you on the project directory ‼️‼️
+- Then you can run this project by type this command below
+![alt_teks](.assets/documentation/run-streamlit.png)
 
 🔗 **Link Deployment**:  
 ⚠️ *COMING SOON*
