@@ -145,7 +145,6 @@ with tab1:
         show_dialog()
 #pertanyaan teknologi
 with tab2:
-    st.header("Pilih bidang teknologi yang kamu minati:")
     # Inisialisasi skor
     webdev = 0
     ai = 0
@@ -218,7 +217,6 @@ with tab2:
         show_dialog_1()
         
 with tab3:
-    st.header("Seputar Investasi")
     # Inisialisasi skor
     high = 0
     medium = 0
